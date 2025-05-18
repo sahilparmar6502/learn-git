@@ -2,3 +2,6 @@ Hey!
 Hello!
 This is File A.
 I am learning Git.
+
+Hello Ji!
+this is new content.
