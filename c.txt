@@ -1,0 +1,2 @@
+This is file C.txt.
+I am happy to learn Git.
