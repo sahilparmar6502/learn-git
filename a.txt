@@ -2,5 +2,3 @@ Hey!
 Hello!
 This is File A.
 I am learning Git.
-
-I am happy with learning Git.
