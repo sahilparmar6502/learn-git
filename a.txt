@@ -1,0 +1,4 @@
+Hey!
+Hello!
+This is File A.
+I am learning Git.
